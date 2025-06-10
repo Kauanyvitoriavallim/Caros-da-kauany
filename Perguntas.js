@@ -1,23 +1,23 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'perguntei vocêrespondeu',
+    'Qual sua comida favorita?',
+    'Maria.j responde: Strogonoff'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'perguntei você respondeu',
+    'Qual discípulo de Jesus era pescador?',
+'henry responde: Pedro, João e Thiago'
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'perguntei você respondeu,
+    'Camila como você se imagina daqui 10anos?',
+    'não sei, mas trabalhando e com filhos'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'perguntei você respondeu,
+    'qual seu maior sonho"?',
+    'Maria.j responde: ter uma família e ir para o céu'
 )
