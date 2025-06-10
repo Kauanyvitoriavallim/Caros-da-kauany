@@ -1,7 +1,7 @@
 criaCartao(
     'perguntei você respondeu',
     'Qual sua comida favorita?',
-    'Maria.j responde: Strogonoff',
+    'Maria.j responde: Strogonoff'
 )
 
 criaCartao(
@@ -13,11 +13,11 @@ criaCartao(
 criaCartao(
     'perguntei você respondeu',
     'Camila como você se imagina daqui 10anos?',
-    'não sei, mas trabalhando e com filhos',
+    'não sei, mas trabalhando e com filhos'
 )
 
 criaCartao(
     'perguntei você respondeu',
     'qual seu maior sonho"?',
-    'Maria.j responde: ter uma família e ir para o céu',
+    'Maria.j responde: ter uma família e ir para o céu'
 )
